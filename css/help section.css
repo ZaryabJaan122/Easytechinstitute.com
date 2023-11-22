@@ -1,0 +1,27 @@
+.divbox1
+{
+    background: #e3e3e3;
+    height: 93%;
+    width: 30%;
+    text-align: center;
+    justify-content: center;
+    border-radius: 20px;
+    border: 8px solid #e3e3e3;
+    box-shadow: -5px -5px 15px rgba(255,255,255,0.1),5px 5px 15px rgba(0,0,0,0.35);
+}
+.p
+{
+    text-align: center;
+    font-size: large;
+    padding: 12px;
+}
+.body
+{
+    background-color: #ffffff;
+}
+.h1
+{
+    font-family:Super Indie;
+    text-align: center;
+    font-size: 50px;
+}
